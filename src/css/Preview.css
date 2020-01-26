@@ -1,0 +1,5 @@
+.preview {
+  border: 1px inset black;
+  min-height: 50vh;
+  min-width: 50vw;
+}
